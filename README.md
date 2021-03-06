@@ -1,4 +1,4 @@
-# Submission-dicoding-web-pemula
+# Web-Pemula-Submission-Dicoding
 Ini adalah submission kelas Belajar Dasar Pemrograman Web dicoding.com
 
 
